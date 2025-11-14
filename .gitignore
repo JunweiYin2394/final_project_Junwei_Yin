@@ -1,0 +1,15 @@
+# Prevent sensitive keys
+.env
+kaggle.json
+
+# Prevent large datasets (teacher will re-download via API)
+data/
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk files
+.DS_Store
+Thumbs.db
