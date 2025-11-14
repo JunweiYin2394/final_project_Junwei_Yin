@@ -1,1 +1,5 @@
-
+pandas
+requests
+yfinance
+pytrends
+matplotlib
