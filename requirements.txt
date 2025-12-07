@@ -1,5 +1,8 @@
 pandas
-requests
-yfinance
-pytrends
+numpy
 matplotlib
+seaborn
+requests
+python-dotenv
+pytrends
+yfinance
